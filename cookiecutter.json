@@ -1,0 +1,10 @@
+{
+    "project_slug": "demo",
+    "addon_name": "demo",
+    "addon_description": "Demo",
+    "addon_label": "Demo",
+    "addon_author": "",
+    "addon_author_email": "",
+    "addon_author_company": "",
+    "addon_input_name": "demo"
+}
