@@ -1,0 +1,1 @@
+# cookiecutter-splunk-addon-ucc
