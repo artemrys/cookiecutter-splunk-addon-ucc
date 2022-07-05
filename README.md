@@ -14,3 +14,7 @@ cookiecutter gh:artemrys/cookiecutter-splunk-addon-ucc
 # Enter required values
 # You will see a new folder in the root directory that is the new add-on
 ```
+
+## Example
+
+Checkout this [repository](https://github.com/artemrys/cookiecutter-splunk-addon-ucc-demo) to see an example.
