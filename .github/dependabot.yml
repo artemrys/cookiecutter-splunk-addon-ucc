@@ -1,0 +1,7 @@
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/{{cookiecutter.project_slug}}/package/lib"
+    target-branch: "main"
+    schedule:
+      interval: "weekly"
