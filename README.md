@@ -1,5 +1,7 @@
 # cookiecutter-splunk-addon-ucc
 
+## This is now a part of the native `ucc-gen` command, please check `ucc-gen init` command [here](https://splunk.github.io/addonfactory-ucc-generator/quickstart/#initialize-new-add-on).
+
 ## Rationale
 
 I need sometimes to create a simple version of the add-on to test or demo smoething. This makes it easy to bootstrap a new add-on without a need to remember all the required files, fields and values.
